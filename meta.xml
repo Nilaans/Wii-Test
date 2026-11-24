@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>MathCanvas Wii</name>
+  <coder>MathCanvas</coder>
+  <version>0.1</version>
+  <short_description>Math scratchpad</short_description>
+  <long_description>Draw with the Wiimote pointer: pen, eraser, line, rectangle, circle, grid snap, undo, and save/load to SD.</long_description>
+</app>
